@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>clock.png</file>
+    <file>time-past.png</file>
+    <file>power.png</file>
+    <file>thema.png</file>
+  </qresource>
+</RCC>
